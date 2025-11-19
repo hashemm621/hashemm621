@@ -2,6 +2,10 @@
 
 ### MERN Stack Developer | Full-Stack Enthusiast
 
+<p align="center">
+  <img src="" alt="GitHub Banner" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me

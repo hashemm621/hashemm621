@@ -3,7 +3,7 @@
 ### MERN Stack Developer | Full-Stack Enthusiast
 
 <p align="center">
-  <img src="" alt="GitHub Banner" />
+  <img src="github-banner.png" alt="GitHub Banner" />
 </p>
 
 ---

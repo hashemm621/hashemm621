@@ -65,7 +65,7 @@ Let's connect and discuss exciting opportunities, or just chat about development
 
 | Platform | Link/Address |
 | :--- | :--- |
-| **LinkedIn** | [Connect with me on LinkedIn] https://www.linkedin.com/in/md-hashem-b215aa384/?skipRedirect=true |
+| **LinkedIn** | [Connect with me on LinkedIn] https://www.linkedin.com/in/md-hashem/ |
 | **Email** | hashemm621@gmail.com |
 | **Facebook** | [Find me on Facebook] https://www.facebook.com/hashem.hashem.56829 |
 

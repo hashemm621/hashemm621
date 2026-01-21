@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm passionate MERN-stack developer focused on creating robust and user-friendly applications. Expertise includes front-end development with React & Bootstrap, and back-end logic with Node.js and MongoDB. Always integrating modern tools like Firebase for added functionality.
+I'm a passionate MERN-stack developer focused on creating robust and user-friendly applications. Expertise includes front-end development with React & Bootstrap, and back-end logic with Node.js and MongoDB. Always integrating modern tools like Firebase for added functionality.
 
 When I'm not coding, I enjoy **writing articles** and **sharing knowledge** within the developer community. Feel free to follow my journey!
 
@@ -72,5 +72,6 @@ Let's connect and discuss exciting opportunities, or just chat about development
 | :--- | :--- |
 | **LinkedIn** | [Connect with me on LinkedIn] https://www.linkedin.com/in/md-hashem/ |
 | **Email** | hashemm621@gmail.com |
+| **Portfolio** | [Connect with Portfolio] https://hashems-portfolio.netlify.app/ |
 | **Facebook** | [Find me on Facebook] https://www.facebook.com/hashem.hashem.56829 |
 

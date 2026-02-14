@@ -39,7 +39,7 @@ Here are the technologies and tools I rely on to build modern web solutions:
         <tr>
             <td align="center">
                 <a href="https://github.com/hashemm621">
-                    <img src="https://github-readme-stats.vercel.app/api?username=hashemm621&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Faysal's GitHub Stats"/>
+                    <img src="https://github-readme-stats.vercel.app/api?username=hashemm621&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hashem's GitHub Stats"/>
                 </a>
             </td>
             <td align="center">
